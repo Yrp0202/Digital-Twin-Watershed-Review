@@ -1,0 +1,9 @@
+feature,shap_value
+Wind speed,0.0375
+Chl-a,0.0403846
+TN,0.0567308
+N/P,0.0576923
+Precipitation,0.0634615
+TP,0.0913462
+LET,0.0980769
+Tair,0.199038
